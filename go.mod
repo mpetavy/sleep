@@ -1,4 +1,4 @@
-module sleep
+module github.com/mpetavy/sleep
 
 go 1.21
 
